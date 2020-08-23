@@ -1,3 +1,6 @@
-# hello-world
-A practice environment
-Hello this is Karim, learning C after 35 years
+#include <stdio.h>
+
+int main(void)
+{
+printf("hello, world");
+}
